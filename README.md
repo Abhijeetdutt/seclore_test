@@ -1,1 +1,1 @@
-# temporary repository for general purpose activities
+# repository created specifically for seclore assignment
