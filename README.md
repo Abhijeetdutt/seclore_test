@@ -1,2 +1,1 @@
-# tmp
-tmp
+# temporary repository for general purpose activities
